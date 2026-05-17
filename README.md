@@ -1,4 +1,10 @@
-# Email Topic Classification Lab - Factory Pattern
+# Riley Brown Homework 1
+
+
+The description of my solutions is in the titled pdf 'Homework 1 Solution Description'. Changes made in the code are not clearly pointed out compared to the lab.
+
+
+## Lab 2 Instructions
 
 This lab demonstrates the Factory Pattern in machine learning feature generation and email topic classification using cosine similarity.
 
